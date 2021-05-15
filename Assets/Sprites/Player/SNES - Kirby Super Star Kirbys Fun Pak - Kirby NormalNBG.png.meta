@@ -1,0 +1,2412 @@
+fileFormatVersion: 2
+guid: 61ecb7c3e77f09c44af8229ad6aa2660
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7358989908787717519
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_0
+  - first:
+      213: -2766185185757842469
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_1
+  - first:
+      213: -7929238240079414010
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_2
+  - first:
+      213: -2100204662777575174
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_3
+  - first:
+      213: -3889040754632910063
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_4
+  - first:
+      213: -5431937532071242800
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_5
+  - first:
+      213: -5905269857749075409
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_6
+  - first:
+      213: -3341092474008590911
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_7
+  - first:
+      213: -54980393322723204
+    second: Kirby_Idle1
+  - first:
+      213: 8214827471746152689
+    second: Kirby_Idle2
+  - first:
+      213: 4979936073020648975
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_10
+  - first:
+      213: -6041092802925327480
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_11
+  - first:
+      213: -133462376385844656
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_12
+  - first:
+      213: -2814575780329659306
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_13
+  - first:
+      213: -6849168155291104038
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_14
+  - first:
+      213: -4073728594370561085
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_15
+  - first:
+      213: -824812687326878837
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_16
+  - first:
+      213: 8008013882439666775
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_17
+  - first:
+      213: -9054141131672561143
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_18
+  - first:
+      213: -306127871328012750
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_19
+  - first:
+      213: 3762104357012672179
+    second: Kirby_Walk1
+  - first:
+      213: -8869986090487700549
+    second: Kirby_Walk2
+  - first:
+      213: -3363818887933728222
+    second: Kirby_Walk3
+  - first:
+      213: 5301234607178327495
+    second: Kirby_Walk4
+  - first:
+      213: -850097799838259666
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_24
+  - first:
+      213: 6190633867996989094
+    second: Kirby_Walk5
+  - first:
+      213: 7092808269803552651
+    second: Kirby_Walk6
+  - first:
+      213: 8245492678048897747
+    second: Kirby_Walk7
+  - first:
+      213: -5138545000635322452
+    second: Kirby_Walk8
+  - first:
+      213: -3741628417825318090
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_29
+  - first:
+      213: 7710772900222505396
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_30
+  - first:
+      213: 184508409960068662
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_31
+  - first:
+      213: -3960751996432450915
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_32
+  - first:
+      213: 3595766018707093118
+    second: Kirby_Jump
+  - first:
+      213: 4809409689848032589
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_34
+  - first:
+      213: -8372904370994872348
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_35
+  - first:
+      213: -7428155649987086281
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_36
+  - first:
+      213: 3661567318077784296
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_37
+  - first:
+      213: -3940505944047725082
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_38
+  - first:
+      213: 5535829290466635837
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_39
+  - first:
+      213: -7781581270516409965
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_40
+  - first:
+      213: -8228817827549971377
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_41
+  - first:
+      213: 3618697190359178449
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_42
+  - first:
+      213: -6195566848021174266
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_43
+  - first:
+      213: 8619954929204795353
+    second: Kirby_shot
+  - first:
+      213: 943511256076527395
+    second: Kirby_Bullet
+  - first:
+      213: 1191003522296216477
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_46
+  - first:
+      213: 9085738392525910789
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_47
+  - first:
+      213: -5371277011398748041
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_48
+  - first:
+      213: -1975568047658051988
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_49
+  - first:
+      213: -9070786875728403200
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_50
+  - first:
+      213: 6800991500631548869
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_51
+  - first:
+      213: 6494359605716222086
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_52
+  - first:
+      213: -51621119438078504
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_53
+  - first:
+      213: 3331221806370175513
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_54
+  - first:
+      213: -7366701128957553905
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_55
+  - first:
+      213: 8740831003003691347
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_56
+  - first:
+      213: 4050089758288958833
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_57
+  - first:
+      213: 8865821680750202646
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_58
+  - first:
+      213: 7294342812637911281
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_59
+  - first:
+      213: 8153317348611189988
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_60
+  - first:
+      213: -4543665672780035431
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_61
+  - first:
+      213: 5760241689207037680
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_62
+  - first:
+      213: 1759316256546882455
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_63
+  - first:
+      213: 5317270791539839233
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_64
+  - first:
+      213: 4681218334897508456
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_65
+  - first:
+      213: 6597998308707251587
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_66
+  - first:
+      213: -2462970419128975014
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_67
+  - first:
+      213: 5883302556942240816
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_68
+  - first:
+      213: -1660477441598838259
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_69
+  - first:
+      213: 8430419494888791833
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_70
+  - first:
+      213: -2250720938983304620
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_71
+  - first:
+      213: -2989377676640062215
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_72
+  - first:
+      213: 1807431352427515640
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_73
+  - first:
+      213: -6653389506656862881
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_74
+  - first:
+      213: 9032500782817547408
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_75
+  - first:
+      213: 7792091345484376112
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_76
+  - first:
+      213: 2646171247844265467
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_77
+  - first:
+      213: -4423026034563730707
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_78
+  - first:
+      213: -2522058354422518480
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_79
+  - first:
+      213: 3428248708936445131
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_80
+  - first:
+      213: 1446451115615003186
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_81
+  - first:
+      213: -1495750003910513731
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_82
+  - first:
+      213: -6342137603813567519
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_83
+  - first:
+      213: 2753302019274692977
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_84
+  - first:
+      213: 5219274435804344107
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_85
+  - first:
+      213: -1655170909703057371
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_86
+  - first:
+      213: 6387731836053357129
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_87
+  - first:
+      213: 6274992681054916601
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_88
+  - first:
+      213: -744695078309074602
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_89
+  - first:
+      213: 2551013291590982646
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_90
+  - first:
+      213: -7355671492921961406
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_91
+  - first:
+      213: -8134190628763463827
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_92
+  - first:
+      213: -4536864888297223257
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_93
+  - first:
+      213: -5043557273280225118
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_94
+  - first:
+      213: -5607998150249602628
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 529
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a1605eaad9fd990800000000000000
+      internalID: -7358989908787717519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 529
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3b4fbba398c99d0800000000000000
+      internalID: -2766185185757842469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 529
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d7f90e4dfa5f190800000000000000
+      internalID: -7929238240079414010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 529
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8068f8cf29ad2e0800000000000000
+      internalID: -2100204662777575174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 529
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b9617e90a570ac0800000000000000
+      internalID: -3889040754632910063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 529
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d318ce1891ed94b0800000000000000
+      internalID: -5431937532071242800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 529
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a7b021a544c0ea0800000000000000
+      internalID: -5905269857749075409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 498
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5acf4c81e02a1d0800000000000000
+      internalID: -3341092474008590911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Idle1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 501
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c784362af9bac3ff0800000000000000
+      internalID: -54980393322723204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Idle2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 501
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8bc80cf0ee00270800000000000000
+      internalID: 8214827471746152689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 498
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eac8c39794c1540800000000000000
+      internalID: 4979936073020648975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 501
+        width: 24
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b87725a1ab92ca0800000000000000
+      internalID: -6041092802925327480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 461
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a64a00da8d52ef0800000000000000
+      internalID: -133462376385844656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 461
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65468047d3e90f8d0800000000000000
+      internalID: -2814575780329659306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 459
+        width: 32
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcc4f8e9ddd2f0a0800000000000000
+      internalID: -6849168155291104038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 461
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbf03d4d653777c0800000000000000
+      internalID: -4073728594370561085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 460
+        width: 32
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8365ad1b3dad84f0800000000000000
+      internalID: -824812687326878837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 461
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c8633a23e222f60800000000000000
+      internalID: 8008013882439666775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 461
+        width: 39
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a57649c9a395280800000000000000
+      internalID: -9054141131672561143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_19
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 461
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236b5ada25a60cbf0800000000000000
+      internalID: -306127871328012750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Walk1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 430
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be80bfeafda53430800000000000000
+      internalID: 3762104357012672179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Walk2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 430
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb323d955aa77e480800000000000000
+      internalID: -8869986090487700549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Walk3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 430
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ae5ff2b805151d0800000000000000
+      internalID: -3363818887933728222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Walk4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 430
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c52fdfb9c4c19940800000000000000
+      internalID: 5301234607178327495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 394
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26ac481e88d334f0800000000000000
+      internalID: -850097799838259666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Walk5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 432
+        width: 27
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6867c14bc89e550800000000000000
+      internalID: 6190633867996989094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Walk6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 430
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ff795ca87be6260800000000000000
+      internalID: 7092808269803552651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Walk7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 430
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da503977efdd6270800000000000000
+      internalID: 8245492678048897747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Walk8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 431
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafa5ce0c8830b8b0800000000000000
+      internalID: -5138545000635322452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 430
+        width: 11
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bd30a27c0131cc0800000000000000
+      internalID: -3741628417825318090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 395
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1987d691b220b60800000000000000
+      internalID: 7710772900222505396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 394
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636fdb9db618f8200800000000000000
+      internalID: 184508409960068662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_32
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 394
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a79315b059809c0800000000000000
+      internalID: -3960751996432450915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Jump
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 362
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76f470942ab6e130800000000000000
+      internalID: 3595766018707093118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_34
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 363
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4da6bea1a47eb240800000000000000
+      internalID: 4809409689848032589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_35
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 363
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eff88c06d77dcb80800000000000000
+      internalID: -8372904370994872348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_36
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 363
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738753adac3e9e890800000000000000
+      internalID: -7428155649987086281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 362
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0c433731080d230800000000000000
+      internalID: 3661567318077784296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 358
+        width: 38
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e558b9b8b28059c0800000000000000
+      internalID: -3940505944047725082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_39
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 321
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30777bd86733dc40800000000000000
+      internalID: 5535829290466635837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 321
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39959042015420490800000000000000
+      internalID: -7781581270516409965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_41
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 321
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c7b73b8cd5dcd80800000000000000
+      internalID: -8228817827549971377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_42
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 321
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc10150ce1383230800000000000000
+      internalID: 3618697190359178449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_43
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 321
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608e289f6cce40aa0800000000000000
+      internalID: -6195566848021174266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_shot
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 321
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7112f665b30a770800000000000000
+      internalID: 8619954929204795353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Bullet
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 326
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327260c0d76081d00800000000000000
+      internalID: 943511256076527395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 292
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b74b0b46b478010800000000000000
+      internalID: 1191003522296216477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_47
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 292
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503b2a00ee6071e70800000000000000
+      internalID: 9085738392525910789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_48
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7781b5134046575b0800000000000000
+      internalID: -5371277011398748041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_49
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66dab1e35f5594e0800000000000000
+      internalID: -1975568047658051988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_50
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 294
+        width: 31
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005eee645671e1280800000000000000
+      internalID: -9070786875728403200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 255
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c328939cb9f16e50800000000000000
+      internalID: 6800991500631548869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 259
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6808c5e17a9902a50800000000000000
+      internalID: 6494359605716222086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_53
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 259
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd3cf88dda984ff0800000000000000
+      internalID: -51621119438078504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_54
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 255
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91abab45590ea3e20800000000000000
+      internalID: 3331221806370175513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_55
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 222
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03140a8a5834c990800000000000000
+      internalID: -7366701128957553905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_56
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 222
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351a1cf7c7bad4970800000000000000
+      internalID: 8740831003003691347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_57
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 222
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175d2474d2fc43830800000000000000
+      internalID: 4050089758288958833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_58
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 223
+        width: 24
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f821378d9b90b70800000000000000
+      internalID: 8865821680750202646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 222
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8d4391426ba3560800000000000000
+      internalID: 7294342812637911281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_60
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 219
+        width: 36
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eceff03ee6662170800000000000000
+      internalID: 8153317348611189988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 189
+        width: 25
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a4fcbd428a1f0c0800000000000000
+      internalID: -4543665672780035431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 190
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fed4991c4d70ff40800000000000000
+      internalID: 5760241689207037680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_63
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 188
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7930c0760d85a6810800000000000000
+      internalID: 1759316256546882455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_64
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 157
+        width: 23
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101da40ec9dbac940800000000000000
+      internalID: 5317270791539839233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_65
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 158
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8609c9ff54707f040800000000000000
+      internalID: 4681218334897508456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_66
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 157
+        width: 23
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385bf1b018cc09b50800000000000000
+      internalID: 6597998308707251587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 154
+        width: 25
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51c5830475c1ddd0800000000000000
+      internalID: -2462970419128975014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_68
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c80b42180b5a150800000000000000
+      internalID: 5883302556942240816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_69
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 158
+        width: 23
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0aa3ff709cc4f8e0800000000000000
+      internalID: -1660477441598838259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_70
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 159
+        width: 20
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fdf544ddddef470800000000000000
+      internalID: 8430419494888791833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_71
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 159
+        width: 20
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452dd571b35d3c0e0800000000000000
+      internalID: -2250720938983304620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_72
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 123
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4f26c67d89386d0800000000000000
+      internalID: -2989377676640062215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_73
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 123
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe88552d39451910800000000000000
+      internalID: 1807431352427515640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 123
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5df76fae796aa3a0800000000000000
+      internalID: -6653389506656862881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_75
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 123
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09417411b93e95d70800000000000000
+      internalID: 9032500782817547408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_76
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 123
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038edf06bc1132c60800000000000000
+      internalID: 7792091345484376112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_77
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 123
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd0c9adab619b420800000000000000
+      internalID: 2646171247844265467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_78
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 123
+        width: 24
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2368971414e92c0800000000000000
+      internalID: -4423026034563730707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_79
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 123
+        width: 27
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03de6d10a49dffcd0800000000000000
+      internalID: -2522058354422518480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_80
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 86
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc29d18906939f20800000000000000
+      internalID: 3428248708936445131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_81
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 86
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232233340a3d21410800000000000000
+      internalID: 1446451115615003186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_82
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 86
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbef18db470e3be0800000000000000
+      internalID: -1495750003910513731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_83
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 86
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e39b0093733cf7a0800000000000000
+      internalID: -6342137603813567519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_84
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 39
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179db325991b53620800000000000000
+      internalID: 2753302019274692977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_85
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 39
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f256b42769e6840800000000000000
+      internalID: 5219274435804344107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_86
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 38
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520d69cb3d6a709e0800000000000000
+      internalID: -1655170909703057371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_87
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 33
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9420a60e248c5a850800000000000000
+      internalID: 6387731836053357129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_88
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 33
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff447ad890451750800000000000000
+      internalID: 6274992681054916601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_89
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 60
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659e76795cf4aa5f0800000000000000
+      internalID: -744695078309074602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_90
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 47
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb9496a215076320800000000000000
+      internalID: 2551013291590982646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_91
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2445bebcfb76be990800000000000000
+      internalID: -7355671492921961406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_92
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 4
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f0e3d48bc8d1f80800000000000000
+      internalID: -8134190628763463827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_93
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 4
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab0a13eb61d901c0800000000000000
+      internalID: -4536864888297223257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_94
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 4
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a06bc1c16fa10ab0800000000000000
+      internalID: -5043557273280225118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Kirby NormalNBG_95
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1235115636c22b0800000000000000
+      internalID: -5607998150249602628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
