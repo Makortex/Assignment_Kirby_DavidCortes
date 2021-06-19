@@ -1,7 +1,73 @@
 fileFormatVersion: 2
 guid: 632917f57bacfac44b26e3e905a4bfcb
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6590151407938142766
+    second: TurretIdle1
+  - first:
+      213: -5464315871768962278
+    second: TurretIdle2
+  - first:
+      213: -9086821128962340146
+    second: TurretAttack1
+  - first:
+      213: -1709082184740238798
+    second: TurretAttack2
+  - first:
+      213: -8903389528792067539
+    second: TurretAttack3
+  - first:
+      213: 2385279709733325691
+    second: Burnin Leo Enemy_5
+  - first:
+      213: -5532452895292627933
+    second: Burnin Leo Enemy_6
+  - first:
+      213: 8584123489856747438
+    second: Burnin Leo Enemy_7
+  - first:
+      213: 3552105732137599788
+    second: Burnin Leo Enemy_8
+  - first:
+      213: -7826382501810257990
+    second: TurretFire
+  - first:
+      213: 2165728004027210845
+    second: Burnin Leo Enemy_10
+  - first:
+      213: -1580204894949463857
+    second: Burnin Leo Enemy_11
+  - first:
+      213: -8889605859958645390
+    second: Burnin Leo Enemy_12
+  - first:
+      213: -1588477591252819985
+    second: Burnin Leo Enemy_13
+  - first:
+      213: 8399307610588862826
+    second: Burnin Leo Enemy_14
+  - first:
+      213: 8040133377714596971
+    second: Burnin Leo Enemy_15
+  - first:
+      213: 2214966437966049170
+    second: Burnin Leo Enemy_16
+  - first:
+      213: 1279564164863230526
+    second: Burnin Leo Enemy_17
+  - first:
+      213: 5089421295950252135
+    second: Burnin Leo Enemy_18
+  - first:
+      213: -8804972577833300439
+    second: Burnin Leo Enemy_19
+  - first:
+      213: -3951636689590488050
+    second: Burnin Leo Enemy_20
+  - first:
+      213: -3791711845756157009
+    second: Burnin Leo Enemy_21
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,12 +107,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 30
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +141,483 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: TurretIdle1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 55
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd7ec9e5341b84a0800000000000000
+      internalID: -6590151407938142766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretIdle2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 55
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b9ea27aa9da24b0800000000000000
+      internalID: -5464315871768962278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretAttack1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 53
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca8fa6c35025e180800000000000000
+      internalID: -9086821128962340146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretAttack2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 53
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a0c9edece1848e0800000000000000
+      internalID: -1709082184740238798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretAttack3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 53
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d229a6f456ec07480800000000000000
+      internalID: -8903389528792067539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnin Leo Enemy_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 53
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b0a9c12473a1120800000000000000
+      internalID: 2385279709733325691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnin Leo Enemy_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 55
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32460876767c833b0800000000000000
+      internalID: -5532452895292627933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnin Leo Enemy_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 55
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea77ff855dee02770800000000000000
+      internalID: 8584123489856747438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnin Leo Enemy_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 22
+        width: 13
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23c0b0f75d9b4130800000000000000
+      internalID: 3552105732137599788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 22
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf344f949a136390800000000000000
+      internalID: -7826382501810257990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnin Leo Enemy_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 22
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c582825263e0e10800000000000000
+      internalID: 2165728004027210845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnin Leo Enemy_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc82434350cf11ae0800000000000000
+      internalID: -1580204894949463857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnin Leo Enemy_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d1febc196c1a480800000000000000
+      internalID: -8889605859958645390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnin Leo Enemy_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef15bffb0894f9e0800000000000000
+      internalID: -1588477591252819985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnin Leo Enemy_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69526835c5509470800000000000000
+      internalID: 8399307610588862826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnin Leo Enemy_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 3
+        width: 9
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ca07565ba449f60800000000000000
+      internalID: 8040133377714596971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnin Leo Enemy_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fe06c6d342dbe10800000000000000
+      internalID: 2214966437966049170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnin Leo Enemy_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e320ef914dce1c110800000000000000
+      internalID: 1279564164863230526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnin Leo Enemy_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 4
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7684c6924b141a640800000000000000
+      internalID: 5089421295950252135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnin Leo Enemy_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ec03957147ec580800000000000000
+      internalID: -8804972577833300439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnin Leo Enemy_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04fe831e57f829c0800000000000000
+      internalID: -3951636689590488050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnin Leo Enemy_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa340176a22216bc0800000000000000
+      internalID: -3791711845756157009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

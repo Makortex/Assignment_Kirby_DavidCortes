@@ -24,7 +24,7 @@ public class GameManager : MonoBehaviour
             currentCanvas = FindObjectOfType<CanvasManager>();
 
             _score = value;
-            Debug.Log("Current Score Is: " + _score);
+            //Debug.Log("Current Score Is: " + _score);
             currentCanvas.SetScoreText();
 
         }
@@ -54,7 +54,7 @@ public class GameManager : MonoBehaviour
                 SceneManager.LoadScene("GameOver");
             }
 
-            Debug.Log("Current Lives Are: " + _lives);
+            //Debug.Log("Current Lives Are: " + _lives);
             currentCanvas.SetLivesText();
             currentCanvas.SetScoreText();
 

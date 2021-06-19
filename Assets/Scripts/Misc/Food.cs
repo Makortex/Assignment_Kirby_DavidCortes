@@ -12,6 +12,7 @@ public class Food : MonoBehaviour
     }
 
     public CollectibleType currentCollectible;
+    public AudioClip pickupAudioClip;
 
     // Start is called before the first frame update
     void Start()
@@ -47,7 +48,8 @@ public class Food : MonoBehaviour
                     break;
 
             }
-
+            if (pickupAudioClip && curMovementScript)
+                curMovementScript.CollectibleSound(pickupAudioClip);
             Destroy(gameObject);
         }
     }

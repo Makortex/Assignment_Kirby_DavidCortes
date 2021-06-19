@@ -1,8 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Audio;
+
 
 [RequireComponent(typeof(Rigidbody2D), typeof(Animator), typeof(SpriteRenderer))]
+[RequireComponent(typeof(AudioSource))]
 public class PlayerMovement : MonoBehaviour
 {
     Rigidbody2D rb;
@@ -16,8 +19,12 @@ public class PlayerMovement : MonoBehaviour
     public Transform groundCheck;
     public float groundCheckRadius;
 
-    //public int score = 0;
-    //public int lives = 3;
+    AudioSource pickupAudioSource;
+    AudioSource jumpAudioSource;
+
+    public AudioClip jumpSFX;
+    public AudioMixerGroup audioMixer;
+
 
     public bool canFly;
 
@@ -29,6 +36,8 @@ public class PlayerMovement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         kirbySprite = GetComponent<SpriteRenderer>();
+        pickupAudioSource = GetComponent<AudioSource>();
+
 
         if (speed <= 0)
         {
@@ -62,11 +71,31 @@ public class PlayerMovement : MonoBehaviour
         {
             rb.velocity = Vector2.zero;
             rb.AddForce(Vector2.up * jumpForce);
+            if (!jumpAudioSource)
+            {
+                jumpAudioSource = gameObject.AddComponent<AudioSource>();
+                jumpAudioSource.clip = jumpSFX;
+                jumpAudioSource.outputAudioMixerGroup = audioMixer;
+                jumpAudioSource.loop = false;
+            }
+
+            jumpAudioSource.Play();
+
         }
         else if (canFly && Input.GetButtonDown("Jump"))
         {
             rb.velocity = Vector2.zero;
             rb.AddForce(Vector2.up * jumpForce);
+            if (!jumpAudioSource)
+            {
+                jumpAudioSource = gameObject.AddComponent<AudioSource>();
+                jumpAudioSource.clip = jumpSFX;
+                jumpAudioSource.outputAudioMixerGroup = audioMixer;
+                jumpAudioSource.loop = false;
+            }
+
+            jumpAudioSource.Play();
+
         }
 
         Vector2 moveDirection = new Vector2(horizontalInput * speed, rb.velocity.y);
@@ -99,5 +128,10 @@ public class PlayerMovement : MonoBehaviour
         yield return new WaitForSeconds(10.0f);
         canFly = false;
         coroutineRunning = false;
+    }
+    public void CollectibleSound(AudioClip pickupAudio)
+    {
+        pickupAudioSource.clip = pickupAudio;
+        pickupAudioSource.Play();
     }
 }
