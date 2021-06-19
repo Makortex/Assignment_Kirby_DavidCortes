@@ -574,7 +574,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES - Kirby Super Star Kirbys Fun Pak - Food and EdiblesNBG_23
+      name: Lives
       rect:
         serializedVersion: 2
         x: 154
@@ -1120,7 +1120,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES - Kirby Super Star Kirbys Fun Pak - Food and EdiblesNBG_49
+      name: CreditKirby
       rect:
         serializedVersion: 2
         x: 1

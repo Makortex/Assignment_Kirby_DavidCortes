@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CamFollow : MonoBehaviour
+public class CameraFollow : MonoBehaviour
 {
-    public Transform player;
+    public GameObject player;
     public float minXClamp = 0f;
     public float maxXClamp = 200f;
 

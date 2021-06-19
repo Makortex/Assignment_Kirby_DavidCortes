@@ -16,8 +16,8 @@ public class PlayerMovement : MonoBehaviour
     public Transform groundCheck;
     public float groundCheckRadius;
 
-    public int score = 0;
-    public int lives = 3;
+    //public int score = 0;
+    //public int lives = 3;
 
     public bool canFly;
 

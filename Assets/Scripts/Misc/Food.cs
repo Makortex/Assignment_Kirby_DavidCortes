@@ -29,18 +29,17 @@ public class Food : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
+            PlayerMovement curMovementScript = collision.GetComponent<PlayerMovement>();
             switch (currentCollectible)
             {
                 case CollectibleType.COLLECTIBLE:
-                    PlayerMovement pmScript = collision.gameObject.GetComponent<PlayerMovement>();
-                    pmScript.score++;
-                    Debug.Log(pmScript.score);
+                    GameManager.instance.score++;
+                    //Debug.Log(pmScript.score);
                     break;
 
                 case CollectibleType.LIVES:
-                    pmScript = collision.gameObject.GetComponent<PlayerMovement>();
-                    pmScript.lives++;
-                    Debug.Log(pmScript.lives);
+                    GameManager.instance.lives++;
+                    //Debug.Log(pmScript.lives);
                     break;
 
                 case CollectibleType.MAXITOMATOPUP:

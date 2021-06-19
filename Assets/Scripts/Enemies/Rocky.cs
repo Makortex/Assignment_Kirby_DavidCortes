@@ -15,6 +15,7 @@ public class Rocky : MonoBehaviour
     public LayerMask isGroundLayer;
     public Transform groundCheck;
     public float groundCheckRadius;
+    public int health = 3;
 
     // Start is called before the first frame update
     void Start()
@@ -34,6 +35,7 @@ public class Rocky : MonoBehaviour
         {
             groundCheckRadius = 0.2f;
         }
+        
     }
     void Jump()
     {
@@ -45,5 +47,17 @@ public class Rocky : MonoBehaviour
     {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, isGroundLayer);
         anim.SetBool("isGrounded", isGrounded);
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "PlayerProjectile")
+        {
+            health--;
+            if (health <= 0)
+            {
+                Destroy(gameObject);
+                GameManager.instance.score++;
+            }
+        }
     }
 }
